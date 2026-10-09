@@ -71,7 +71,8 @@ One page: which pattern for which delegation scenario, with a worked example
 ## Acceptance criteria
 
 - [ ] Three pattern modules, typed, documented
-- [ ] Tests green for all three (revoke actually revokes, attenuate actually denies, receipts actually log)
+- [ ] Tests green for all three (revoke actually revokes, attenuate actually denies,
+  receipts actually log)
 - [ ] `PATTERNS.md` with the worked example
 - [ ] No changes to Cap'n Web core
 
